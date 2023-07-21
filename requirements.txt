@@ -1,0 +1,15 @@
+bottle
+paste
+sqlalchemy
+sqlalchemy_utils
+transformers==4.26.1
+faiss-cpu
+sentence_transformers
+langchain
+InstructorEmbedding
+nltk
+unstructured
+pytesseract
+pdf2image
+cpm-kernels
+PyPDF2<3.0
