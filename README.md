@@ -2,7 +2,7 @@
 
 ## 简介
 - 本文基于中文开源大模型 ChatGLM 构建本地知识库，用到了 chatglm-6b-int4 + text2vec-large-chinese 模型。
-- KM文章：https://km.woa.com/vkm/articles/show/576792?ts=1683536354
+  
 
 ## 安装部署
 ### 机器性能要求
@@ -16,9 +16,6 @@
 根据需要，下载对应模型。
 需下载模型[GanymedeNil/text2vec-large-chinese](https://huggingface.co/GanymedeNil/text2vec-large-chinese)置于model文件夹。
 
-内部下载地址：
-- https://drive.weixin.qq.com/s?k=AJEAIQdfAAoarZhuyh
-- https://drive.weixin.qq.com/s?k=AJEAIQdfAAoHFpMDpO
 
 解压缩模型文件
 ```
